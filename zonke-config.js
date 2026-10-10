@@ -1,0 +1,1 @@
+window.ZONKE={"whatsapp":"27000000000","email":"hello@callzonke.co.za","phone":"0XX XXX XXXX","formEndpoint":"","demoSite":"GP-0001","apiUrl":"","survey":{"slots":["09:30","15:00"],"days":10},"googleReviewUrl":"","payments":{"debitOrderUrl":"","cardPayUrl":"","eft":"Banking details are on every invoice."},"sla":"a reply on WhatsApp within 2 working hours"};
